@@ -48,4 +48,4 @@ With practical experience  I've honed my problem-solving skills and adaptability
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkaliroff&show_icons=true&locale=en&layout=compact" alt="mkaliroff" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkaliroff&show_icons=true&locale=en" alt="mkaliroff" /></p>
+
