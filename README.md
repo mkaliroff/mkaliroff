@@ -17,7 +17,7 @@ With practical experience  I've honed my problem-solving skills and adaptability
 
 - 💬 Ask me about **C/++, Linux and system programming**
 
-- ⚡ Fun fact **I"m the admin of the first 3D priting facebook comunity in Israel**
+- ⚡ Fun fact **I"m the admin of the first Israeli 3D priting facebook comunity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
