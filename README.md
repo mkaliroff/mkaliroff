@@ -39,7 +39,6 @@ With practical experience  I've honed my problem-solving skills and adaptability
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a 
- <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/fbe85b2c57bf7a9bdfb6b83d82559d7f21642dde37aa3cae3693659353698b98/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72617370626572727970692f72617370626572727970692d6f726967696e616c2e737667" alt="raspberry pi" width="40" height="40"/> </a>
 </p>
 
 
